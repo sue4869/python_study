@@ -4,7 +4,7 @@
 #    # num = num + 1
 #    num += 1
 
-# 나무그림
+# 나무그림 그리기
 import turtle
 
 t = turtle.Turtle(shape="turtle")

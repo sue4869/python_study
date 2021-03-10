@@ -5,6 +5,7 @@ print(ans)
 
 print("-----업 다운 게임을 시작합니다-----")
 cnt = 0
+
 while True :
     num = int(input("몇번이게? >>"))
     cnt+=1

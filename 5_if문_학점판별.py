@@ -15,7 +15,7 @@ if my_money >= 5000 or credit_card == True:
 else:
     print("컵라면 지겨뷰ㅜ")
 
-#예제 풀기
+#예제
 my_money = 2000
 if my_money >= 5000:
     print("제육 덮밥 먹기")
